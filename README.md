@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @roblur13
+- 👀 I’m interested in coding (duh).
+- 🌱 I’m currently learning java/c#. I use Eclipse and am learning to use Unity.
+- 📫 How to reach me? Impossible. When/if I start making/contributing on here I'll add a method of contact.
